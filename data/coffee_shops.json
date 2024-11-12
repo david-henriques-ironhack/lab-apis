@@ -1,0 +1,27 @@
+[
+    {
+        "Name": "Hola Coffee",
+        "Latitude": 40.407002,
+        "Longitude": -3.699084
+    },
+    {
+        "Name": "Los Porfiados",
+        "Latitude": 40.410194,
+        "Longitude": -3.698964
+    },
+    {
+        "Name": "Pum Pum Caf\u00e9",
+        "Latitude": 40.408108,
+        "Longitude": -3.701986
+    },
+    {
+        "Name": "Ruda Caf\u00e9",
+        "Latitude": 40.410408,
+        "Longitude": -3.707983
+    },
+    {
+        "Name": "Cafelito",
+        "Latitude": 40.408404,
+        "Longitude": -3.70278
+    }
+]
