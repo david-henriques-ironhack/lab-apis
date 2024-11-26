@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Starbucks",
+        "latitude": 38.71449,
+        "longitude": -9.140825
+    },
+    {
+        "name": "Starbucks",
+        "latitude": 38.710633,
+        "longitude": -9.13938
+    },
+    {
+        "name": "Starbucks",
+        "latitude": 38.712352,
+        "longitude": -9.13872
+    },
+    {
+        "name": "Starbucks",
+        "latitude": 38.770219,
+        "longitude": -9.128875
+    },
+    {
+        "name": "Starbucks",
+        "latitude": 38.728264,
+        "longitude": -9.218769
+    },
+    {
+        "name": "Starbucks ECI Lisboa",
+        "latitude": 38.733857,
+        "longitude": -9.153991
+    },
+    {
+        "name": "Starbucks",
+        "latitude": 38.771343,
+        "longitude": -9.130866
+    },
+    {
+        "name": "Starbucks",
+        "latitude": 38.768788,
+        "longitude": -9.095998
+    },
+    {
+        "name": "Starbucks",
+        "latitude": 38.714539,
+        "longitude": -9.140885
+    },
+    {
+        "name": "Starbucks",
+        "latitude": 38.71449,
+        "longitude": -9.140825
+    },
+    {
+        "name": "Caf\u00e9 da Garagem",
+        "address": "Rua Costa Castelo 75, 1100-178 Lisboa"
+    },
+    {
+        "name": "Damas",
+        "address": "Rua da Voz do Oper\u00e1rio 60, 1070-087 Lisboa"
+    },
+    {
+        "name": "Copenhagen Coffee Lab",
+        "address": "Escolas Gerais, 34, 1100-213 Lisboa"
+    },
+    {
+        "name": "Pastelaria Santo Ant\u00f3nio",
+        "address": "Rua St Ant\u00f3nio 88, 4800-162 Lisboa"
+    },
+    {
+        "name": "Fabrica da Nata",
+        "address": "Rua Augusta, 1100-052 Lisboa"
+    },
+    {
+        "name": "Quiosque Portas do Sol",
+        "address": "Lisboa"
+    },
+    {
+        "name": "Copenhagen Coffee Lab",
+        "address": "Rua dos Douradores, Lisbon Portugal (Rua de Santa Justa), 1100-230 Lisboa"
+    },
+    {
+        "name": "Curva",
+        "address": "Rua Damasceno Monteiro 108D, Lisboa"
+    },
+    {
+        "name": "F\u00e1brica da Nata",
+        "address": "Unknown Address"
+    },
+    {
+        "name": "F\u00e1brica Coffee Roasters",
+        "address": "Rua das Portas de Santo Ant\u00e3o 136, 1150-265 Lisboa"
+    }
+]
